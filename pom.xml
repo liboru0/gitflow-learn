@@ -6,7 +6,7 @@
 
     <groupId>com.liboru.learn</groupId>
     <artifactId>gitflow-learn</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-2-SNAPSHOT</version>
 
     <properties>
         <gitflow-maven-plugin.version>1.15.0</gitflow-maven-plugin.version>
